@@ -7,7 +7,6 @@ Mock social network for superheroes and villains.
 * [Installation](#installation)
 * [Features](#features)
 * [Todos](#todos-of-additional-features)
-* [Contact && License](#contact)
 
 ## Context
 Between July and October 2017, I attend **[SPICED Academy]**, an intensive 12-week coding program focused on Full Stack JavaScript Web Development in Berlin.
@@ -109,14 +108,6 @@ Forms include CSRF protection using the csurf npm package.
  - [ ] **Extend the use of Redux to all the application:**
 > If you do this, you'll have to create a whole bunch of new actions, and your reducer will get a lot bigger. It would be a good time to try [splitting up your reducer logic].
 
-## Contact
-* e-mail: ravalico.giovanni@gmail.com
-* Twitter: [@superspacezova](https://twitter.com/superspacezova "twitterhandle on twitter")
-* LinkdeIn: [/giovanni-ravalico]
-License
-----
-MIT © [suddenlyGiovanni] 
-**Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
